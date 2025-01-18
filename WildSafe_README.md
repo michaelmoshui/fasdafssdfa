@@ -30,12 +30,10 @@ FireLink utilizes the following frameworks and libraries:
 
 ## File Structure and Purpose
 
-- **FireLinkApp.swift**: The main entry point of the application, initializing the app's structure and UI.
+- **WildFire.swift**: The main entry point of the application, initializing the app's structure and UI.
 - **ContentView.swift**: The primary user interface that integrates buttons, map views, and lists for interaction.
-- **MapView.swift**: A reusable component to display and manage the map interface using MapKit.
-- **LocationManager.swift**: Handles location updates and permissions using CoreLocation.
-- **ResourceListView.swift**: Displays the dynamic list of resources and incidents, showing user-submitted data.
-- **IncidentReporting.swift**: Contains logic and UI components for reporting incidents and resources.
+- **Info**: This file contains important app metadata, app settings, and app permissions.
+- **Assets**: manages images, icons, and various forms of media content.
 
 ## How It Works
 1. **Launch the App**: Open WildSafe during an emergency situation.
