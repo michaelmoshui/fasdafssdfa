@@ -1,12 +1,12 @@
-# WildSafe - Wildfire Tracker and Emergency Support
+# FireLink - Wildfire Tracker and Emergency Support
 
 ## Overview
-WildSafe is an iOS application designed to assist users during wildfire emergencies. Built using **Swift**, **SwiftUI**, and developed with **Xcode**, this app incorporates GPS functionality to track required items and provide real-time information for critical situations. It aims to simplify reporting incidents and coordinating resources with minimal user effort.
+FireLink is an iOS application designed to assist users during wildfire emergencies. Built using **Swift**, **SwiftUI**, and developed with **Xcode**, this app incorporates GPS functionality to track required items and provide real-time status update for critical situations. It aims to simplify reporting incidents and coordinating resources with minimal user effort.
 
 ---
 
 ## How It Works
-1. **Launch the App**: Open WildSafe during an emergency situation.
+1. **Launch the App**: Open FireLink during an emergency situation.
 2. **Report an Incident**: Click the respective button for the type of incident or resource you need or can provide.
 3. **View and Share Resources**: Check the dynamic list to locate others who need or provide resources nearby.
 4. **Respond Effectively**: Use the app to coordinate help without needing extensive input or communication.
@@ -58,7 +58,6 @@ WildSafe is an iOS application designed to assist users during wildfire emergenc
 
 ## Future Enhancements
 - **Notification System**: Alert nearby users about newly reported incidents.
-- **Offline Mode**: Allow basic functionalities without an internet connection.
 - **Advanced Filters**: Enable users to search for specific resources based on proximity or availability.
 
 ---
@@ -68,8 +67,6 @@ For inquiries or support, please contact:
 - **Email**: winnie.hsiang@mail.utoronto.ca
 - **Phone**: 7789296648 
 
-- **Website**: [www.wildsafeapp.com](http://www.wildsafeapp.com)
-
 ---
 
-Thank you for choosing WildSafe—helping you stay safe and connected during wildfire emergencies!
+Thank you for choosing FireLink—helping you stay safe and connected during wildfire emergencies!
