@@ -5,6 +5,22 @@ WildSafe is an iOS application designed to assist users during wildfire emergenc
 
 ---
 
+## How It Works
+1. **Launch the App**: Open WildSafe during an emergency situation.
+2. **Report an Incident**: Click the respective button for the type of incident or resource you need or can provide.
+3. **View and Share Resources**: Check the dynamic list to locate others who need or provide resources nearby.
+4. **Respond Effectively**: Use the app to coordinate help without needing extensive input or communication.
+
+---
+
+## Technology Stack
+- **Programming Language**: Swift
+- **Frameworks**: SwiftUI
+- **Development Platform**: Xcode
+- **Core Features**: GPS integration, dynamic list management, and map visualization
+
+---
+
 ## Key Features
 
 ### 1. **Incident Reporting**
@@ -30,22 +46,6 @@ WildSafe is an iOS application designed to assist users during wildfire emergenc
 
 ---
 
-## How It Works
-1. **Launch the App**: Open WildSafe during an emergency situation.
-2. **Report an Incident**: Click the respective button for the type of incident or resource you need or can provide.
-3. **View and Share Resources**: Check the dynamic list to locate others who need or provide resources nearby.
-4. **Respond Effectively**: Use the app to coordinate help without needing extensive input or communication.
-
----
-
-## Technology Stack
-- **Programming Language**: Swift
-- **Frameworks**: SwiftUI
-- **Development Platform**: Xcode
-- **Core Features**: GPS integration, dynamic list management, and map visualization
-
----
-
 ## Use Cases
 1. **Wildfire Emergencies**:
    - Quickly report fire locations and view marked danger zones.
@@ -63,21 +63,11 @@ WildSafe is an iOS application designed to assist users during wildfire emergenc
 
 ---
 
-## Getting Started
-1. **Install the App**: Download WildSafe from the App Store.
-2. **Grant Permissions**: Allow location services for accurate GPS tracking.
-3. **Start Reporting**: Begin using the app to report incidents and coordinate resources in emergencies.
-
----
-
-## Contribution
-Contributions to WildSafe are welcome! If you have ideas for improvements or want to report bugs, feel free to reach out or create a pull request.
-
----
-
 ## Contact
 For inquiries or support, please contact:
-- **Email**: support@wildsafeapp.com
+- **Email**: winnie.hsiang@mail.utoronto.ca
+- **Phone**: 7789296648 
+
 - **Website**: [www.wildsafeapp.com](http://www.wildsafeapp.com)
 
 ---
