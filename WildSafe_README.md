@@ -42,6 +42,7 @@ FireLink utilizes the following frameworks and libraries:
 2. **Report an Incident**: Click the respective button for the type of incident or resource you need or can provide.
 3. **View and Share Resources**: Check the dynamic list to locate others who need or provide resources nearby.
 4. **Respond Effectively**: Use the app to coordinate help without needing extensive input or communication.
+5. **Delete Items**: Long press on an item to remove it from the list.
 
 ## Technology Stack
 - **Programming Language**: Swift
